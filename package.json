@@ -1,6 +1,6 @@
 {
-  "name": "@hyoban/eslint-plugin-tailwindcss",
-  "version": "4.0.0-alpha.11",
+  "name": "@svkarpovich/eslint-plugin-tailwindcss",
+  "version": "4.0.0-alpha",
   "description": "Rules enforcing best practices while using Tailwind CSS",
   "keywords": [
     "eslint",
